@@ -61,6 +61,6 @@ def etl_parent(color: str, months: list[int], years: list[int]):
 
 if __name__ == "__main__":
     years = [2019,2020]
-    months = list(range(2,12+1))
+    months = list(range(1,12+1))
     color = 'yellow'
     etl_parent(color, months, years)
