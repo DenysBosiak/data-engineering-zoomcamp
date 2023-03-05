@@ -1,5 +1,8 @@
 **/ny_taxi_postgres_data/*
 */data/*
+*/pwd/*
+*/spark/*
+
 .ipynb_checkpoints/
 *.csv
 *.json
