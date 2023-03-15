@@ -10,3 +10,4 @@
 *.tfstate
 **.terraform.lock.*
 /terraform/
+*/env/*
